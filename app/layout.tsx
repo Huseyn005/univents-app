@@ -9,7 +9,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "MyEvents - Find Events and Venues",
+  title: "Univents - Find Events and Venues",
   description: "Discover events and venues in your area",
     generator: 'v0.dev'
 }
