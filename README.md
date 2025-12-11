@@ -1,6 +1,5 @@
 # Univents App
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Huseyn005/univents-app)
 
 Univents is a comprehensive web application for discovering events, venues, and news in Azerbaijan. Built with Next.js and shadcn/ui, it provides a user-friendly platform to explore cultural gatherings, concerts, conferences, and more.
 
@@ -23,7 +22,7 @@ To get a local copy up and running, follow these simple steps.
 
 Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (v18 or later)
-- [pnpm](https://pnpm.io/)
+- npm (comes with Node.js)
 
 ### Installation
 
@@ -37,14 +36,14 @@ Make sure you have the following installed on your machine:
     ```
 3.  Install the dependencies:
     ```bash
-    pnpm install
+    npm install
     ```
 
 ### Running the Application
 
 To start the development server, run:
 ```bash
-pnpm dev
+npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
