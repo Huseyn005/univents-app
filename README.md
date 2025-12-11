@@ -83,4 +83,4 @@ The project uses the Next.js App Router for routing and organization.
 
 The project is deployed on Vercel and can be accessed here:
 
-👉 https://univents-app.vercel.app/
+👉 https://univentsaz.vercel.app
