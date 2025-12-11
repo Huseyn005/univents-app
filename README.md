@@ -1,4 +1,4 @@
-# Univents App
+# **Univents App**
 
 
 Univents is a comprehensive web application for discovering events, venues, and news in Azerbaijan. Built with Next.js and shadcn/ui, it provides a user-friendly platform to explore cultural gatherings, concerts, conferences, and more.
@@ -77,3 +77,10 @@ The project uses the Next.js App Router for routing and organization.
 │   └── footer.tsx        # Application footer
 ├── lib/                  # Utility functions
 └── public/               # Static assets like images
+```
+
+## 🔗 Deployment
+
+The project is deployed on Vercel and can be accessed here:
+
+👉 https://univents-app.vercel.app/
